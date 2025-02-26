@@ -5,7 +5,7 @@ public class InputOutputDemo {
     {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter an Integer: ");
+        System.out.print("Enter an integer: ");
         int userInt = input.nextInt();
 
         System.out.print("Enter a decimal number: ");
